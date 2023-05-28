@@ -1,13 +1,13 @@
 # @author Forrest Wang
 # Level 1.py
 #
-# The solution to level 1 of Google Foobar.
+# Make a function that takes in a list of numbers and a natural number n as parameters and returns the same list
+# but without elements that appear more than n times.
 
 # Function(s):
 def solution(data, n):
     # Variable(s):
     unique_elements = set(data)
-    unwanted_elements = []
 
     # Logic:
     for element in unique_elements:
