@@ -1,3 +1,3 @@
 # Google_Foobar
 
-Solutions to the 2023 Google Foobar challenges written in Python.
+My solutions to the 2023 Google Foobar challenges written in Python. I was given one week to complete each challenge.
